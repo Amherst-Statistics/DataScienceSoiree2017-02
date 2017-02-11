@@ -41,4 +41,6 @@ Please forward this announcement to other interested faculty in the Five College
 
 Parking is available in the Converse Lot (100 Boltwood Avenue, Amherst, MA) or the Alumni Lot (75 Churchill Street, Amherst, MA).
 
-Last updated February 6, 2017
+Last updated February 9, 2017
+
+http://data.berkeley.edu/foundations-data-science

@@ -1,0 +1,5 @@
+Nicholas Horton is a Professor of Statistics at Amherst College with research interests in missing data methods and statistical computing.  He serves on the National Academies "Envisioning Undergraduate Data Science Education" study and the "Data Science Education" roundtable.
+
+Albert Kim is an Assistant Professor of Statistics at Middlebury College. Prior to joining Middlebury, he was a Decision Support Engineering Analyst in the AdWords division of Google Inc and a Visiting Assistant Professor of Statistics at Reed College.
+
+Amelia McNamara is a visiting assistant professor of Statistical and Data Sciences at Smith College, as well as a MassMutual Faculty Fellow. Her research interests include statistical computing and statistics education. 
