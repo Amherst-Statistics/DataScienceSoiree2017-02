@@ -21,5 +21,5 @@ Ramesh Sitaraman
 
 Neena Thota teaches Introductory Programming, Data Structures, and Software Engineering at the College of Information and Computer Sciences, UMASS, Amherst. She has numerous publications on research in computing education, educational technologies, learning and assessment taxonomies, methodological frameworks for research, and pedagogic theories.
 
-Amy Wagaman
+Amy Wagaman is an Associate Professor of Statistics at Amherst College. Her research interests range from multivariate data analysis to statistics education, with recent applied work on protein folding via network analysis. 
 
