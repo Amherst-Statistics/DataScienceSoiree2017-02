@@ -2,6 +2,8 @@ Ben Baumer
 
 Patrick Flaherty
 
+Martha Hoopes
+
 Nicholas Horton is a Professor of Statistics at Amherst College with research interests in missing data methods and statistical computing.  He serves on the National Academies "Envisioning Undergraduate Data Science Education" study and the "Data Science Education" roundtable.
 
 Albert Kim is an Assistant Professor of Statistics at Middlebury College. Prior to joining Middlebury, he was a Decision Support Engineering Analyst in the AdWords division of Google Inc and a Visiting Assistant Professor of Statistics at Reed College.
@@ -14,11 +16,10 @@ Amelia McNamara is a visiting assistant professor of Statistical and Data Scienc
 
 Ethan Meyers
 
-Dan Sheldon
 
 Ramesh Sitaraman
 
-Neena Thota
+Neena Thota teaches Introductory Programming, Data Structures, and Software Engineering at the College of Information and Computer Sciences, UMASS, Amherst. She has numerous publications on research in computing education, educational technologies, learning and assessment taxonomies, methodological frameworks for research, and pedagogic theories.
 
 Amy Wagaman
 
