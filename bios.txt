@@ -2,7 +2,7 @@ Ben Baumer
 
 Patrick Flaherty
 
-Martha Hoopes
+Martha Hoopes is a professor of Biological Sciences at Mount Holyoke College and co-Chair of Mount Holyoke's Data Science Initiatives. She is an ecologist who focuses on spatial questions in population and community dynamics with a particular interest in the spread and impacts of invasive plant species. Her research straddles experimental and theoretical ecology.
 
 Nicholas Horton is a Professor of Statistics at Amherst College with research interests in missing data methods and statistical computing.  He serves on the National Academies "Envisioning Undergraduate Data Science Education" study and the "Data Science Education" roundtable.
 
