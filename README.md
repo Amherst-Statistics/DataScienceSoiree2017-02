@@ -1,7 +1,7 @@
 # DataScienceSoiree2017-02
-materials for Five College Data Science Soiree (February 16, 2017)
+materials for Five College Data Science Soiree (Thursday, February 16, 2017)
 
-### Undergraduate Data Science Education Panel Presentation and Discussion
+### Undergraduate Data Science Education Lightning Presentations and Discussion
 
 Thursday, February 16th, 2017  4:30-6:30pm
 
@@ -16,8 +16,9 @@ There has been dramatic growth in the number and variety of data science program
 On the agenda for February's meeting:
 
 - Brief presentations about existing undergraduate data science education courses and plans, with a focus on entry level courses (including "data science for all" initiatives)
-- High level overview of Berkeley's new "Data 8" course http://data.berkeley.edu/sites/default/files/DSEPSummaryReport%20-%20Year%201%20-%20FINAL%20(1).pdf
-- Report from the National Academies "Envisioning Undergraduate Data Science" study
+- Updates from the National Academies "Envisioning Undergraduate Data Science" study (http://sites.nationalacademies.org/CSTB/CurrentProjects/CSTB_175246) and "Data Science Post-Secondary Education" Roundtable (http://sites.nationalacademies.org/DEPS/BMSA/DEPS_175092)
+- Outline of the PCMI guidelines for undergraduate data science programs (https:PCMI_flowchart.pdf)
+- High level overview of Berkeley's new "Data 8" course (http://data.berkeley.edu/sites/default/files/DSEPSummaryReport%20-%20Year%201%20-%20FINAL%20(1).pdf)
 - Discussion of possible plans to bring variants of Data 8 to the Five Colleges
 
 
@@ -41,6 +42,6 @@ Please forward this announcement to other interested faculty in the Five College
 
 Parking is available in the Converse Lot (100 Boltwood Avenue, Amherst, MA) or the Alumni Lot (75 Churchill Street, Amherst, MA).
 
-Last updated February 9, 2017
+Last updated February 15, 2017
 
 http://data.berkeley.edu/foundations-data-science
