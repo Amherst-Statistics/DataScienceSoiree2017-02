@@ -17,7 +17,7 @@ On the agenda for February's meeting:
 
 - Brief presentations about existing undergraduate data science education courses and plans, with a focus on entry level courses (including "data science for all" initiatives)
 - Updates from the National Academies "Envisioning Undergraduate Data Science" study (http://sites.nationalacademies.org/CSTB/CurrentProjects/CSTB_175246) and "Data Science Post-Secondary Education" Roundtable (http://sites.nationalacademies.org/DEPS/BMSA/DEPS_175092)
-- Outline of the PCMI guidelines for undergraduate data science programs (https://github.com/Amherst-Statistics/DataScienceSoiree2017-02/PCMI_flowchart.pdf)
+- Outline of the PCMI guidelines for undergraduate data science programs (https://nhorton.people.amherst.edu/PCMI_flowchart.pdf)
 - High level overview of Berkeley's new "Data 8" course (http://data.berkeley.edu/sites/default/files/DSEPSummaryReport%20-%20Year%201%20-%20FINAL%20(1).pdf)
 - Discussion of possible plans to bring variants of Data 8 to the Five Colleges
 
