@@ -14,8 +14,7 @@ Andrew McCallum
 
 Amelia McNamara is a visiting assistant professor of Statistical and Data Sciences at Smith College, as well as a MassMutual Faculty Fellow. Her research interests include statistical computing and statistics education. 
 
-Ethan Meyers
-
+Ethan Meyers is an Assistant Professor of Statistics at Hampshire College (for the past 3 years) and is a research affiliate at the Center for Brains, Minds and Machines at MIT. Ethan Meyers’ research develops machine learning methods that are useful for analyzing neural data.
 
 Ramesh Sitaraman
 
