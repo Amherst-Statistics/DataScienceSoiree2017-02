@@ -8,7 +8,7 @@ Nicholas Horton is a Professor of Statistics at Amherst College with research in
 
 Albert Kim is an Assistant Professor of Statistics at Middlebury College. Prior to joining Middlebury, he was a Decision Support Engineering Analyst in the AdWords division of Google Inc and a Visiting Assistant Professor of Statistics at Reed College.
 
-Ben Marlin
+Benjamin Marlin joined the College of Information and Computer Sciences at the University of Massachusetts Amherst in 2011. He co-directs the Machine Learning for Data Science lab at UMass Amherst where he also serves as Director of Educational Programs for the Center for Data Science. His current research centers on the development of customized probabilistic models and algorithms for time series with applications to the analysis of electronic health records and mobile health data. Marlin is a 2014 NSF CAREER award recipient and a 2013 Yahoo! Faculty Research Engagement Program award recipient. Prior to joining UMass Amherst, Marlin was a fellow of the Pacific Institute for the Mathematical Sciences and the Killam Trusts at the University of British Columbia. He completed his PhD in machine learning in the Department of Computer Science at the University of Toronto.
 
 Andrew McCallum
 
