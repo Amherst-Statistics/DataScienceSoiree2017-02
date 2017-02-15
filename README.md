@@ -9,7 +9,7 @@ Amherst College, Converse Hall, 100 Boltwood Avenue, Amherst, MA
 
 Cole College Assembly Hall
 
-hosted by Andrew McCallum (UMass/Amherst) and Nicholas Horton (Amherst College)
+hosted by Andrew McCallum (UMass/Amherst) and [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton) (Amherst College)
 
 There has been dramatic growth in the number and variety of data science programs in recent years.  Many questions remain about how to prepare the next generation of students to "think with data".  At this faculty gathering hosted by Amherst College we plan a lively discussion of these issues.  We hope that you and your colleagues can join us (RSVP's solicited below).
 
