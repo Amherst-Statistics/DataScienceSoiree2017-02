@@ -1,4 +1,4 @@
-Ben Baumer 
+Benjamin Baumer is an assistant professor in the Statistical & Data Sciences program at Smith College. He has been a practicing data scientist since 2004, when he became the first full-time statistical analyst for the New York Mets. Ben is a co-author of "Modern Data Science with R" and "The Sabermetric Revolution" and won the 2016 Contemporary Baseball Analysis Award from the Society for American Baseball Research.
 
 Patrick Flaherty
 
