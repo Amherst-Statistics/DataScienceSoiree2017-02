@@ -42,6 +42,19 @@ Please forward this announcement to other interested faculty in the Five College
 
 Parking is available in the Converse Lot (100 Boltwood Avenue, Amherst, MA) or the Alumni Lot (75 Churchill Street, Amherst, MA).
 
-Last updated February 15, 2017
+### Links
 
 http://data.berkeley.edu/foundations-data-science
+
+https://www.inferentialthinking.com/chapters/14/2/inference-for-the-true-slope.html
+
+http://mdsr-book.github.io/
+
+http://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
+
+https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Programs-in-Statistical-Science.aspx
+
+https://docs.google.com/presentation/d/141ruANsDSWMvB5NH6JbXymGh_ZWpRCxow_DLT6e-9JE/edit#slide=id.p
+
+
+Last updated February 16, 2017
