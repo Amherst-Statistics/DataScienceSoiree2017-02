@@ -54,6 +54,8 @@ http://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
 
 https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Programs-in-Statistical-Science.aspx
 
+https://nhorton.people.amherst.edu/soireeslides.pdf
+
 https://docs.google.com/presentation/d/141ruANsDSWMvB5NH6JbXymGh_ZWpRCxow_DLT6e-9JE/edit#slide=id.p
 
 
