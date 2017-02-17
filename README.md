@@ -61,4 +61,4 @@ https://docs.google.com/presentation/d/141ruANsDSWMvB5NH6JbXymGh_ZWpRCxow_DLT6e-
 UMass Biostats "Data Science" course website: https://nickreich.github.io/data-stories/
 
 
-Last updated February 16, 2017
+Last updated February 17, 2017
