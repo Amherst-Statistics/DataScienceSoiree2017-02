@@ -54,7 +54,7 @@ https://www.inferentialthinking.com/chapters/14/2/inference-for-the-true-slope.h
 
 https://nhorton.people.amherst.edu/soireeslides.pdf
 
-[recording](nhorton.people.amherst.edu/datascience.mp3)
+[recording](https://nhorton.people.amherst.edu/datascience.mp3)
 
 #### Other resources
 
