@@ -44,9 +44,17 @@ Parking is available in the Converse Lot (100 Boltwood Avenue, Amherst, MA) or t
 
 ### Links
 
+#### Berkeley Data 8
+
 http://data.berkeley.edu/foundations-data-science
 
 https://www.inferentialthinking.com/chapters/14/2/inference-for-the-true-slope.html
+
+#### Slides and materials
+
+https://nhorton.people.amherst.edu/soireeslides.pdf
+
+#### Other resources
 
 http://mdsr-book.github.io/
 
@@ -54,11 +62,11 @@ http://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
 
 https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Programs-in-Statistical-Science.aspx
 
-https://nhorton.people.amherst.edu/soireeslides.pdf
+[http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283](Teaching students to think with data)
 
-https://docs.google.com/presentation/d/141ruANsDSWMvB5NH6JbXymGh_ZWpRCxow_DLT6e-9JE/edit#slide=id.p
-
-UMass Biostats "Data Science" course website: https://nickreich.github.io/data-stories/
+[UMass Biostats "Data Science" course website](https://nickreich.github.io/data-stories/)
 
 
-Last updated February 17, 2017
+
+
+Last updated February 18, 2017
