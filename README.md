@@ -11,9 +11,9 @@ Cole College Assembly Hall
 
 hosted by [Andrew McCallum](https://people.cs.umass.edu/~mccallum) (UMass/Amherst) and [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton) (Amherst College)
 
-There has been dramatic growth in the number and variety of data science programs in recent years.  Many questions remain about how to prepare the next generation of students to "think with data".  At this faculty gathering hosted by Amherst College we plan a lively discussion of these issues.  We hope that you and your colleagues can join us (RSVP's solicited below).
+There has been dramatic growth in the number and variety of data science programs in recent years.  Many questions remain about how to prepare the next generation of students to "think with data".  At this faculty gathering hosted by Amherst College we had a lively discussion of these issues and were glad that so many were able to join us.
 
-On the agenda for February's meeting:
+Agenda for February's meeting:
 
 - Brief presentations about existing undergraduate data science education courses and plans, with a focus on entry level courses (including "data science for all" initiatives)
 - Updates from the National Academies "Envisioning Undergraduate Data Science" study (http://sites.nationalacademies.org/CSTB/CurrentProjects/CSTB_175246) and "Data Science Post-Secondary Education" Roundtable (http://sites.nationalacademies.org/DEPS/BMSA/DEPS_175092)
@@ -28,7 +28,7 @@ On the agenda for February's meeting:
 * 5:00-6:30pm: lightning talks and discussion (Cole Auditorium, Converse Hall)
 
 
-The presentations and panel discussion (speakers to be confirmed) will be recorded and materials made available after the event.  
+The presentations and panel discussion (speakers to be confirmed) were recorded and materials made available after the event: see nhorton.people.amherst.edu/datascience.mp3
 
 The meeting is part of the Five College Data Science Faculty Soiree series of evening meetings we have been having for the past year.  These events, include the February gathering, are generously sponsored by MassMutual. Future meetings will consider other aspects of undergraduate data science education.
 
@@ -54,19 +54,19 @@ https://www.inferentialthinking.com/chapters/14/2/inference-for-the-true-slope.h
 
 https://nhorton.people.amherst.edu/soireeslides.pdf
 
-#### Other resources
+[recording](nhorton.people.amherst.edu/datascience.mp3)
 
-http://mdsr-book.github.io/
+#### Other resources
 
 http://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf
 
+http://mdsr-book.github.io/
+
 https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Programs-in-Statistical-Science.aspx
 
-[http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283](Teaching students to think with data)
+[Teaching students to think with data](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283)
 
-[UMass Biostats "Data Science" course website](https://nickreich.github.io/data-stories/)
-
-
+[UMass Biostats "Data Science" course website](https://nickreich.github.io/data-stories)
 
 
 Last updated February 18, 2017
