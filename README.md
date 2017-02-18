@@ -30,9 +30,7 @@ Agenda for February's meeting:
 
 The presentations and panel discussion (speakers to be confirmed) were recorded and materials made available after the event: see nhorton.people.amherst.edu/datascience.mp3
 
-The meeting is part of the Five College Data Science Faculty Soiree series of evening meetings we have been having for the past year.  These events, include the February gathering, are generously sponsored by MassMutual. Future meetings will consider other aspects of undergraduate data science education.
-
-RSVP's requested by February 10th by filling out a short Google Form at https://docs.google.com/forms/d/e/1FAIpQLSe2AUKF21GZq3_E1Wk8GDsi0fkZxbf8nzdW97dZ42RXZMUiww/viewform 
+The meeting is part of the Five College Data Science Faculty Soiree series of evening meetings we have been having for the past year.  These events, include the February gathering, are generously sponsored by [MassMutual](https://http://datascience.massmutual.com/development). Future meetings will consider other aspects of undergraduate data science education.
 
 More information can be found at https://github.com/Amherst-Statistics/DataScienceSoiree2017-02 or by contacting Nicholas Horton (nhorton@amherst.edu) or Andrew McCallum (mccallum@cs.umass.edu).
 
@@ -67,6 +65,11 @@ https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Pro
 [Teaching students to think with data](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283)
 
 [UMass Biostats "Data Science" course website](https://nickreich.github.io/data-stories)
+
+http://sites.nationalacademies.org/CSTB/CurrentProjects/CSTB_175246
+
+[Data Science Post-Secondary Education Roundtable](http://sites.nationalacademies.org/DEPS/BMSA/DEPS_175092)
+
 
 
 Last updated February 18, 2017
